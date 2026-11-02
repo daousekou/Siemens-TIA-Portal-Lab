@@ -1,5 +1,7 @@
 # Siemens TIA Portal — Laboratoire d'automatisme industriel
 
+📄 **[Consulter la documentation technique complète (PDF)](Documentation_TIA_Portal.pdf)**
+
 **Installation, configuration et validation d'un environnement d'ingénierie Siemens virtualisé sous VMware Workstation.**
 
 Ce projet s'inscrit dans la création d'un laboratoire personnel **OT/IT (Operational Technology / Information Technology)** destiné à expérimenter l'automatisme industriel, la supervision SCADA et l'administration des systèmes industriels.
